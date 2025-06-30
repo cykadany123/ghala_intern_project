@@ -1,3 +1,23 @@
+Steps to set up the project.
+1. Unzip the file.
+2. Open the folder in VS Code or any terminal.
+3. Run the backend:
+
+ cd backend
+npm install
+node index.js
+
+4. In a new terminal, run the frontend:
+
+cd frontend
+npm install
+npm start
+
+Backend runs on: http://localhost:5000
+
+Frontend runs on: http://localhost:3000
+
+
 1️⃣ How My Code Works (Detailed)
 --------------------------------
 - The system has two parts: Backend (Node.js + Express) and Frontend (React + Tailwind CSS).
